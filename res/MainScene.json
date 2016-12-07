@@ -1,0 +1,193 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "3.10.0.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "LabelText": "TIME:1000",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "mikado_outline_shadow.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 851.7518,
+              "Y": 603.9653
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8872,
+              "Y": 0.9437
+            },
+            "PreSize": {
+              "X": 0.1917,
+              "Y": 0.0766
+            },
+            "LeftMargin": 759.7518,
+            "RightMargin": 16.2482,
+            "TopMargin": 11.5347,
+            "BottomMargin": 579.4653,
+            "Tag": 3,
+            "ActionTag": -1823746164,
+            "Size": {
+              "X": 184.0,
+              "Y": 49.0
+            },
+            "Name": "BitmapFontLabel_time",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 12,
+            "ButtonText": "重新开始",
+            "TextColor": {
+              "G": 0,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 912.6177,
+              "Y": 40.1994
+            },
+            "Scale": {
+              "ScaleX": 1.7901,
+              "ScaleY": 1.7901
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9506,
+              "Y": 0.0628
+            },
+            "PreSize": {
+              "X": 0.0479,
+              "Y": 0.0562
+            },
+            "LeftMargin": 889.6177,
+            "RightMargin": 24.3823,
+            "TopMargin": 581.8007,
+            "BottomMargin": 22.1994,
+            "Tag": 4,
+            "ActionTag": -1925396719,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "Button_restart",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "Game complete",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "mikado_outline_shadow.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.3007,
+              "Y": 333.2455
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5003,
+              "Y": 0.5207
+            },
+            "PreSize": {
+              "X": 0.2688,
+              "Y": 0.0766
+            },
+            "LeftMargin": 351.3007,
+            "RightMargin": 350.6993,
+            "TopMargin": 282.2545,
+            "BottomMargin": 308.7455,
+            "Tag": 5,
+            "ActionTag": -773661264,
+            "Size": {
+              "X": 258.0,
+              "Y": 49.0
+            },
+            "Name": "BitmapFontLabel_info",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "mikado_outline_shadow.fnt",
+        "mikado_outline_shadow.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
