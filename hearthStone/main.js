@@ -131,8 +131,7 @@
             frameRate: 60,
             jsList: jsList,
             groupList: settings.groupList,
-            collisionMatrix: settings.collisionMatrix,
-            renderMode: 0
+            collisionMatrix: settings.collisionMatrix
         };
 
         cc.game.run(option, onStart);
