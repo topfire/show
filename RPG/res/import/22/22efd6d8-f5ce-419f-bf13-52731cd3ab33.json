@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"5","data":{"__id__":1}},{"__type__":"cc.Node","_name":"Rect","_components":[{"__type__":"cc.BoxCollider","node":{"__id__":1}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"22efd6d8-f5ce-419f-bf13-52731cd3ab33"},"fileId":"465eb8nne1HmoCay8EOudIv"},"groupIndex":2}]
